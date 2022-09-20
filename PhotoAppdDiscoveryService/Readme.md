@@ -1,1 +1,2 @@
 # PhotoAppDiscoveryService
+* Eureka-discovery-server
